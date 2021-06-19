@@ -2,6 +2,6 @@ package hello;
 
 public class Greeter {
     public String sayHello() {
-        return "BecomeDevops Java Demo project";
+        return "BecomeDevops, Checking Github webhook changes";
     }
 }
