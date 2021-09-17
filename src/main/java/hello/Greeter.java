@@ -2,6 +2,6 @@ package hello;
 
 public class Greeter {
     public String sayHello() {
-        return "BecomeDevops, Github triggered by poll scm on SEP17 2ND";
+        return "BecomeDevops, Github triggered based on the push event";
     }
 }
